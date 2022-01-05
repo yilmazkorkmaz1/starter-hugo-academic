@@ -28,12 +28,12 @@ organizations:
     url: https://w3.bilkent.edu.tr/bilkent/
 education:
   courses:
+    - course: Ms.c. in Electrical and Electronics Engineering
+      institution: Bilkent University
+      year: 2022
     - course: B.Sc. in Electrical and Electronics Engineering
       institution: Bilkent University
       year: 2019
-    - course: Ms.c. in Electrical and Electronics Engineering
-      institution: Bilkent University
-      year: 2020
 email: yilmazkorkmz@gmail.com
 superuser: true
 highlight_name: true
