@@ -20,6 +20,6 @@ content:
   offset: 0
   order: desc
 design:
-  view: citation
+  view: 3
   columns: "2"
 ---
