@@ -8,7 +8,8 @@ authors:
   - Salman Ul Hassan Dar
   - Muzaffer Ozbey
   - Tolga Cukur
-publication: International Workshop on Machine Learning for Medical Image Reconstruction
+publication: International Workshop on Machine Learning for Medical Image
+  Reconstruction, Satellite Event of MICCAI 2021
 abstract: Supervised training of deep network models for MRI reconstruction
   requires access to large databases of fully-sampled MRI acquisitions. To
   alleviate dependency on costly databases, unsupervised learning strategies
