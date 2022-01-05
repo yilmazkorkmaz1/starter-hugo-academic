@@ -12,12 +12,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:yilmazkorkmz@gmail.com
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=JqK7g60AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/y%C4%B1lmaz-korkmaz-141047173/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=JqK7g60AAAAJ&hl=en
   - display:
       header: false
     link: https://www.semanticscholar.org/author/34952444
@@ -28,9 +28,12 @@ organizations:
     url: https://w3.bilkent.edu.tr/bilkent/
 education:
   courses:
-    - course: BSc in Electrical and Electronics Engineering
+    - course: B.Sc. in Electrical and Electronics Engineering
       institution: Bilkent University
-      year: ""
+      year: 2019
+    - course: Ms.c. in Electrical and Electronics Engineering
+      institution: Bilkent University
+      year: 2020
 email: yilmazkorkmz@gmail.com
 superuser: true
 highlight_name: true
