@@ -4,7 +4,7 @@ title: Zero-shot Learning for Unsupervised Reconstruction of Accelerated MRI
 publication_types:
   - "1"
 authors:
-  - Yilmaz Korkmaz
+  - admin
   - Salman Ul Hassan Dar
   - Mahmut Yurt
   - Tolga Çukur
