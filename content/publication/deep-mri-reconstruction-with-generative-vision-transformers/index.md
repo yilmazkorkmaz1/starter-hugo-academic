@@ -32,7 +32,7 @@ abstract: Supervised training of deep network models for MRI reconstruction
 draft: false
 featured: false
 image:
-  filename: transformer.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2021-10-01T17:11:20.246Z
