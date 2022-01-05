@@ -38,7 +38,4 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-10-01T17:11:20.246Z
-links:
-  - name: Chapter
-    url: https://link.springer.com/chapter/10.1007/978-3-030-88552-6_6
 ---
