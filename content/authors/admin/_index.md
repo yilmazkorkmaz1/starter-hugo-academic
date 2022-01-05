@@ -10,6 +10,9 @@ interests:
   - Deep Learning
   - Medical Imaging
   - Computer Vision
+  - Medical Image Analysis
+  - Image Reconstruction & Processing
+  - Magnetic Resonance Imaging
 social:
   - icon: envelope
     icon_pack: fas
