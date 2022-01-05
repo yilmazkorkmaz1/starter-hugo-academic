@@ -5,7 +5,9 @@ role: Master of Science student in Electrical and Electronics Engineering at
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Deeplearning
+  - Deep Learning
+  - Medical Imaging
+  - Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
