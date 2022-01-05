@@ -8,6 +8,7 @@ authors:
   - Salman Ul Hassan Dar
   - Muzaffer Ozbey
   - Tolga Cukur
+doi: https://link.springer.com/chapter/10.1007/978-3-030-88552-6_6
 publication: International Workshop on Machine Learning for Medical Image
   Reconstruction, Satellite Event of MICCAI 2021
 abstract: Supervised training of deep network models for MRI reconstruction
