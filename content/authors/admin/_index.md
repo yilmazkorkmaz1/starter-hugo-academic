@@ -43,4 +43,4 @@ highlight_name: true
 ---
 I'm currently working on developing novel computer vision and deep learning techniques to advance healthcare under the supervision of Prof. Tolga Cukur in his Imaging and Computational Neuroscience (ICON) Lab at National Magnetic Resonance Research Center (UMRAM), as a graduate researcher. I'm particularly interested in unsupervised models for medical image reconstruction and synthesis.
 
-{{< icon name="download" pack="fas" >}} My detailed {{< staticref "uploads/cv_yilmaz_korkmaz.pdf" "newtab" >}}resumé{{< /staticref >}}, a list of {{< staticref "#publications">}}publications{{< /staticref >}}, and links for social media profiles are available in this website.
+{{< icon name="download" pack="fas" >}} See my detailed {{< staticref "uploads/cv_yilmaz_korkmaz.pdf" "newtab" >}}resumé{{< /staticref >}}.
