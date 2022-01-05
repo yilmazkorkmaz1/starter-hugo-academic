@@ -12,6 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
+    icon_size: L
     link: mailto:yilmazkorkmz@gmail.com
   - icon: linkedin
     icon_pack: fab
