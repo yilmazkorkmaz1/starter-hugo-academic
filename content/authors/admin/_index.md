@@ -26,8 +26,12 @@ social:
     icon_pack: ai
     icon: semantic-scholar
 organizations:
-  - name: Bilkent University
-    url: https://w3.bilkent.edu.tr/bilkent/
+  - name: Department of Electrical and Electronics Engineering at Bilkent University
+    url: https://ee.bilkent.edu.tr/en/
+  - name: Imaging and Computational Neuroscience (ICON) Lab
+    url: http://www.icon.bilkent.edu.tr/
+  - name: National Magnetic Resonance Research Center
+    url: http://umram.bilkent.edu.tr/
 education:
   courses:
     - course: Ms.c. in Electrical and Electronics Engineering
