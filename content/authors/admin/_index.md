@@ -2,7 +2,7 @@
 title: Yilmaz Korkmaz
 role: Master of Science student in Electrical and Electronics Engineering at
   Bilkent University
-avatar_filename: 3-5x4-5-cm-biometrik-1-.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - My research interests include deep learning
