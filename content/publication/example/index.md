@@ -27,6 +27,10 @@ publication_types:
   - "2"
 authors:
   - admin
+  - Salman Ul Hassan Dar
+  - Mahmut Yurt
+  - Muzaffer Ozbey
+  - Tolga Cukur
 author_notes: []
 publication: preprint at arXiv, under second round review at IEEE Transactions
   on Medical Imaging
