@@ -28,7 +28,7 @@ social:
 organizations:
   - name: Imaging and Computational Neuroscience (ICON) Lab
     url: http://www.icon.bilkent.edu.tr/
-  - name: National Magnetic Resonance Research Center
+  - name: National Magnetic Resonance Research Center (UMRAM)
     url: http://umram.bilkent.edu.tr/
 education:
   courses:
