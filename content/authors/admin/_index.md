@@ -1,9 +1,11 @@
 ---
-title: Yilmaz Korkmaz
+title: Yılmaz Korkmaz
 role: Master of Science student in Electrical and Electronics Engineering at
   Bilkent University
 avatar_filename: avatar.jpg
-bio: ""
+bio: I'm currently working on developing deep learning techniques for
+  accelerated MRI reconstruction in UMRAM (National Magnetic Resonance Research
+  Center), while pursuing my M.Sc. degree at Bilkent University in Ankara.
 interests:
   - Deep Learning
   - Medical Imaging
