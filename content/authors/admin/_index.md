@@ -4,7 +4,7 @@ role: Master of Science student in Electrical and Electronics Engineering at
   Bilkent University
 avatar_filename: avatar.jpg
 bio: ""
-font: 15
+font: 20
 interests:
   - Deep Learning
   - Medical Imaging
