@@ -22,10 +22,11 @@ abstract: A popular framework for reconstruction of undersampled MR acquisitions
   contrast, acceleration rate or undersampling pattern.
 draft: false
 featured: false
-url_pdf: https://index.mirasmart.com/ISMRM2021/PDFfiles/1965.html
+url_poster: https://index.mirasmart.com/ISMRM2021/PDFfiles/1965.html
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  
 date: 2021-04-30T17:43:17.417Z
 ---
