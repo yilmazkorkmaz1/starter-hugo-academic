@@ -10,8 +10,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:yilmazkorkmz@gmail.com
-  - icon: google scholar
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=JqK7g60AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
@@ -19,7 +19,7 @@ social:
   - display:
       header: false
     link: https://www.semanticscholar.org/author/34952444
-    icon_pack: fas
+    icon_pack: ai
     icon: semantic-scholar
 organizations:
   - name: Bilkent University
