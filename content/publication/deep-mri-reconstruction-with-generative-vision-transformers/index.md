@@ -3,7 +3,7 @@ title: Deep MRI Reconstruction with Generative Vision Transformers
 publication_types:
   - "1"
 authors:
-  - Yilmaz Korkmaz
+  - admin
   - Mahmut Yurt
   - Salman Ul Hassan Dar
   - Muzaffer Ozbey
@@ -33,6 +33,7 @@ abstract: Supervised training of deep network models for MRI reconstruction
   models based on convolutional neural networks (CNNs).
 draft: false
 featured: false
+url:https://link.springer.com/chapter/10.1007/978-3-030-88552-6_6 
 image:
   filename: featured.png
   focal_point: Smart
