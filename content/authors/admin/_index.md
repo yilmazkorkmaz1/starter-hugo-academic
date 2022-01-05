@@ -20,7 +20,7 @@ social:
       header: false
     link: https://www.semanticscholar.org/author/34952444
     icon_pack: ai
-    icon: semantic-scholar
+    icon: semantic
 organizations:
   - name: Bilkent University
     url: https://w3.bilkent.edu.tr/bilkent/
