@@ -1,5 +1,4 @@
 ---
-font:
 title: Yılmaz Korkmaz
 role: Master of Science student in Electrical and Electronics Engineering at
   Bilkent University
@@ -10,7 +9,6 @@ interests:
   - Deep Learning
   - Medical Imaging
   - Computer Vision
-font: 
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,4 +43,4 @@ highlight_name: true
 ---
 I'm currently working on developing novel computer vision and deep learning techniques to advance healthcare under the supervision of Prof. Tolga Cukur in his Imaging and Computational Neuroscience (ICON) Lab and National Magnetic Resonance Research Center (UMRAM) at Bilkent University. I'm particularly interested in unsupervised models for medical image reconstruction and synthesis.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_yilmaz_korkmaz.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my detailed {{< staticref "uploads/cv_yilmaz_korkmaz.pdf" "newtab" >}}resumé{{< /staticref >}}.
