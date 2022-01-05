@@ -3,14 +3,14 @@ title: Deep MRI Reconstruction with Generative Vision Transformers
 publication_types:
   - "1"
 authors:
-  - admin
+  - Yilmaz Korkmaz
   - Mahmut Yurt
   - Salman Ul Hassan Dar
   - Muzaffer Ozbey
   - Tolga Cukur
 doi: ""
 publication: International Workshop on Machine Learning for Medical Image
-  Reconstruction, Satellite Event of MICCAI 2021
+  Reconstruction, held in conjuction with MICCAI 2021
 abstract: Supervised training of deep network models for MRI reconstruction
   requires access to large databases of fully-sampled MRI acquisitions. To
   alleviate dependency on costly databases, unsupervised learning strategies
@@ -33,7 +33,6 @@ abstract: Supervised training of deep network models for MRI reconstruction
   models based on convolutional neural networks (CNNs).
 draft: false
 featured: false
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-88552-6_6
 image:
   filename: featured.png
   focal_point: Smart
