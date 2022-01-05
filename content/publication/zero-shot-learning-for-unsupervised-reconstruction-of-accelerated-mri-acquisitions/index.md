@@ -8,7 +8,7 @@ authors:
   - Salman Ul Hassan Dar
   - Mahmut Yurt
   - Tolga Çukur
-doi: ""
+doi: https://index.mirasmart.com/ISMRM2021/PDFfiles/1965.html
 publication: "Proceedings of the 2021 Scientific Meeting of ISMRM, abstract id: 1965."
 abstract: A popular framework for reconstruction of undersampled MR acquisitions
   is deep neural networks (DNNs). DNNs are typically trained in asupervised
@@ -22,6 +22,7 @@ abstract: A popular framework for reconstruction of undersampled MR acquisitions
   contrast, acceleration rate or undersampling pattern.
 draft: false
 featured: false
+url_pdf: https://index.mirasmart.com/ISMRM2021/PDFfiles/1965.html
 image:
   filename: featured
   focal_point: Smart
