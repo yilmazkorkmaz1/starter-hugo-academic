@@ -43,7 +43,7 @@ tags: []
 projects:
   - Unsupervised MRI Reconstruction
 image:
-  caption: Model architecture
+  caption: Proposed model architecture
   focal_point: ""
   preview_only: false
   filename: featured.png
