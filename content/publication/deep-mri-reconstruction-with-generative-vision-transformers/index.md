@@ -3,7 +3,7 @@ title: Deep MRI Reconstruction with Generative Vision Transformers
 publication_types:
   - "1"
 authors:
-  - Yilmaz Korkmaz
+  - admin
   - Mahmut Yurt
   - Salman Ul Hassan Dar
   - Muzaffer Ozbey
