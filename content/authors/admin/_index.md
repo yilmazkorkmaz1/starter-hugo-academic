@@ -10,12 +10,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:yilmazkorkmz@gmail.com
-  - icon: graduation-cap
+  - icon: google scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=JqK7g60AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/y%C4%B1lmaz-korkmaz-141047173/
+  - display:
+      header: false
+    link: https://www.semanticscholar.org/author/34952444
+    icon_pack: fas
+    icon: semantic-scholar
 organizations:
   - name: Bilkent University
     url: https://w3.bilkent.edu.tr/bilkent/
