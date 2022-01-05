@@ -32,8 +32,6 @@ abstract: Supervised training of deep network models for MRI reconstruction
   models based on convolutional neural networks (CNNs).
 draft: false
 featured: false
-url_pdf: https://arxiv.org/pdf/2105.08059.pdf
-url_code: 'https://github.com/icon-lab/SLATER'
 image:
   filename: featured.png
   focal_point: Smart
