@@ -8,7 +8,7 @@ authors:
   - Salman Ul Hassan Dar
   - Muzaffer Ozbey
   - Tolga Cukur
-doi: ''
+doi: https://doi.org/10.1007/978-3-030-88552-6_6
 publication: International Workshop on Machine Learning for Medical Image
   Reconstruction, held in conjuction with MICCAI 2021
 abstract: Supervised training of deep network models for MRI reconstruction
@@ -33,12 +33,12 @@ abstract: Supervised training of deep network models for MRI reconstruction
   models based on convolutional neural networks (CNNs).
 draft: false
 featured: false
-links:
-- name: Chapter
-  url: https://link.springer.com/chapter/10.1007/978-3-030-88552-6_6 
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2021-10-01T17:11:20.246Z
+links:
+  - name: Chapter
+    url: https://link.springer.com/chapter/10.1007/978-3-030-88552-6_6
 ---
