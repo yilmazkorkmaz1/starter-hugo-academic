@@ -4,7 +4,6 @@ role: Master of Science student in Electrical and Electronics Engineering at
   Bilkent University
 avatar_filename: avatar.jpg
 bio: ""
-font: 20
 interests:
   - Deep Learning
   - Medical Imaging
@@ -12,7 +11,6 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    icon_size: L
     link: mailto:yilmazkorkmz@gmail.com
   - icon: linkedin
     icon_pack: fab
@@ -40,8 +38,9 @@ education:
       year: 2019
 email: yilmazkorkmz@gmail.com
 superuser: true
+font: 20
 highlight_name: true
 ---
-I'm currently working on developing novel computer vision and deep learning techniques to advance healthcare under the supervision of Prof. Tolga Cukur in his Imaging and Computational Neuroscience (ICON) Lab and National Magnetic Resonance Research Center (UMRAM) at Bilkent University. I'm particularly interested in unsupervised models for medical image reconstruction and synthesis.
+I'm currently working on developing novel computer vision and deep learning techniques to advance healthcare as a graduate researcher under the supervision of Prof. Tolga Cukur in his Imaging and Computational Neuroscience (ICON) Lab at National Magnetic Resonance Research Center (UMRAM). I'm particularly interested in unsupervised models for medical image reconstruction and synthesis.
 
 {{< icon name="download" pack="fas" >}} My detailed {{< staticref "uploads/cv_yilmaz_korkmaz.pdf" "newtab" >}}resumé{{< /staticref >}}, a list of {{< staticref "#publications">}}publications{{< /staticref >}}, and links for social media profiles are available in this website.
