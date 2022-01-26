@@ -8,7 +8,7 @@ authors:
   - Mahmut Yurt
   - Muzaffer Ozbey
   - Tolga Cukur
-publication: preprint at arXiv, IEEE Transactions
+publication: IEEE Transactions
   on Medical Imaging; accepted, in press.
 abstract: Supervised deep learning has swiftly become a workhorse for
   accelerated MRI in recent years, offering state-of-the-art performance in
