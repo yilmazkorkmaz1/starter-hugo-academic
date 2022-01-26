@@ -9,7 +9,7 @@ authors:
   - Muzaffer Ozbey
   - Tolga Cukur
 publication: IEEE Transactions
-  on Medical Imaging; accepted, in press.
+  on Medical Imaging; accepted, in press
 abstract: Supervised deep learning has swiftly become a workhorse for
   accelerated MRI in recent years, offering state-of-the-art performance in
   image reconstruction from undersampled acquisitions. Training deep supervised
